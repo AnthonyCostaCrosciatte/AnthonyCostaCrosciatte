@@ -1,7 +1,6 @@
 ## hello!, Welcome to my profile! 👋
 - 🔭 I’m currently working on: studying at a university and developing simple games.
 - 🌱 I’m currently learning: C#, PHP, Javascript, Python. I would like to learn C++.
-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with: C++, looking for opportunity to develop games with C++ and Unreal Engine 5.
 - 💬 Ask me about:
 - 📫 How to reach me: E-mail - tonycrosciatti@gmail.com
