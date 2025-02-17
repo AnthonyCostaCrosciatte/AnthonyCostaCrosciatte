@@ -1,10 +1,4 @@
-## Hi there 👋
-
-<!--
-**AnthonyCostaCrosciatte/AnthonyCostaCrosciatte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+## hello!, Welcome to my profile! 👋
 - 🔭 I’m currently working on: studying at a university and developing simple games.
 - 🌱 I’m currently learning: C#, PHP, Javascript, Python. I would like to learn C++.
 - 👯 I’m looking to collaborate on ...
